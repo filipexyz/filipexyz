@@ -1,16 +1,23 @@
-<h1 align="center">Hey there, I'm Luis 👋</h1>
-<h2 align="center">Tech Enthusiast & AI Researcher</h2>
+# Hey, I'm Luís 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lfssousa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+I build infrastructure for AI agents.
 
-<hr>
+## What I'm Working On
 
-<p align="center">
-I'm busy crafting smart agents and building a protocol designed to truly make a difference. If you're into tech that matters, let's connect!
-</p>
+| Project | What it does |
+|---------|--------------|
+| [**notif.sh**](https://github.com/filipexyz/notif) | Pub/sub without the ops. Emit events, subscribe via WebSocket, get webhooks with retries. |
+| [**MsgCore**](https://github.com/msgcore/msgcore) | One API for Discord, Telegram, WhatsApp, Email. Message storage + cross-platform identities. |
+| [**TaskRun**](https://github.com/task-run/taskrun) | Delegate multi-step tasks to Claude Code agents with full observability. |
+| [**FlowsFarm**](https://github.com/filipexyz/flowsfarm) | Git for n8n workflows. Pull, edit locally, push back. |
 
-<p align="center">🤖🌍🚀</p>
+## The Stack
+
+Building with Go, TypeScript, Rust. Heavy on NATS, PostgreSQL, Redis.
+
+Big fan of n8n for automation and Claude Code for agentic workflows.
+
+## Links
+
+- 🌐 [filipe.xyz](https://filipe.xyz)
+- 📍 São Paulo
