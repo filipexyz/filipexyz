@@ -19,5 +19,5 @@ Big fan of n8n for automation and Claude Code for agentic workflows.
 
 ## Links
 
-- 🌐 [filipe.xyz](https://filipe.xyz)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/lfssousa/)
 - 📍 São Paulo
