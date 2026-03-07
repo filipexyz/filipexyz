@@ -1,23 +1,39 @@
 # Hey, I'm Luís 👋
+*A human, apparently.*
 
-I build infrastructure for AI agents.
+Building AI agents that actually work in the real world.
 
-## What I'm Working On
+---
+
+## ⚡ Ravi — My main project
+
+An autonomous AI agent that lives in your WhatsApp.
+Manages your life, delegates to specialized sub-agents, works while you sleep.
+
+→ [filipexyz/ravi](https://github.com/filipexyz/ravi)
+
+---
+
+## Open Source
+
+### Personal
 
 | Project | What it does |
 |---------|--------------|
-| [**notif.sh**](https://github.com/filipexyz/notif) | Pub/sub without the ops. Emit events, subscribe via WebSocket, get webhooks with retries. |
-| [**MsgCore**](https://github.com/msgcore/msgcore) | One API for Discord, Telegram, WhatsApp, Email. Message storage + cross-platform identities. |
-| [**TaskRun**](https://github.com/task-run/taskrun) | Delegate multi-step tasks to Claude Code agents with full observability. |
-| [**FlowsFarm**](https://github.com/filipexyz/flowsfarm) | Git for n8n workflows. Pull, edit locally, push back. |
+| [**notif**](https://github.com/filipexyz/notif) | Managed pub/sub. Emit events, subscribe via WebSocket, webhooks with retries. |
 
-## The Stack
+### At Namastex / Automagik
 
-Building with Go, TypeScript, Rust. Heavy on NATS, PostgreSQL, Redis.
+| Project | What it does |
+|---------|--------------|
+| [**omni**](https://github.com/automagik-dev/omni) | Omnipresent messaging hub for AI agents. WhatsApp, Telegram, Discord — one API. |
+| [**genie**](https://github.com/automagik-dev/genie) | Dual CLI: Claude profiles + terminal orchestration. |
+| [**genie-cli**](https://github.com/namastexlabs/genie-cli) | Published CLI release of genie. |
 
-Big fan of n8n for automation and Claude Code for agentic workflows.
+---
 
-## Links
+## Stack
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/lfssousa/)
-- 📍 São Paulo
+TypeScript, Go, Rust · NATS, PostgreSQL · Claude Code, n8n
+
+📍 São Paulo · [LinkedIn](https://www.linkedin.com/in/lfssousa/)
