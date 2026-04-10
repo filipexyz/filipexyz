@@ -1,39 +1,26 @@
-# Hey, I'm Luís 👋
-*A human, apparently.*
+# Luís Filipe Sousa
 
-Building AI agents that actually work in the real world.
+Building infrastructure and products for multi-agent systems.
 
----
+I work on messaging, orchestration, and operator tooling for agents that run in real channels and real workflows.
 
-## ⚡ Ravi — My main project
+## Core Projects
 
-An autonomous AI agent that lives in your WhatsApp.
-Manages your life, delegates to specialized sub-agents, works while you sleep.
+### [omni](https://github.com/automagik-dev/omni)
+Messaging infrastructure for AI agents across WhatsApp, Telegram, Discord, and other channels.
 
-→ [filipexyz/ravi](https://github.com/filipexyz/ravi)
+### [genie](https://github.com/automagik-dev/genie)
+An orchestration environment for building, coordinating, and operating specialized agents.
 
----
+### [ravi](https://github.com/filipexyz/ravi)
+A personal agent harness in WhatsApp, keeping context, routing work, and coordinating specialized agents across my day.
 
-## Open Source
+## Focus
 
-### Personal
-
-| Project | What it does |
-|---------|--------------|
-| [**notif**](https://github.com/filipexyz/notif) | Managed pub/sub. Emit events, subscribe via WebSocket, webhooks with retries. |
-
-### At Namastex / Automagik
-
-| Project | What it does |
-|---------|--------------|
-| [**omni**](https://github.com/automagik-dev/omni) | Omnipresent messaging hub for AI agents. WhatsApp, Telegram, Discord — one API. |
-| [**genie**](https://github.com/automagik-dev/genie) | Dual CLI: Claude profiles + terminal orchestration. |
-| [**genie-cli**](https://github.com/namastexlabs/genie-cli) | Published CLI release of genie. |
-
----
-
-## Stack
-
-TypeScript, Go, Rust · NATS, PostgreSQL · Claude Code, n8n
+- multi-agent orchestration
+- messaging infrastructure
+- operator tooling
+- workflow automation
+- real-world AI systems
 
 📍 São Paulo · [LinkedIn](https://www.linkedin.com/in/lfssousa/)
