@@ -6,14 +6,8 @@ I work on messaging, orchestration, and operator tooling for agents that run in 
 
 ## Core Projects
 
-### [omni](https://github.com/automagik-dev/omni)
-Messaging infrastructure for AI agents across WhatsApp, Telegram, Discord, and other channels.
-
-### [genie](https://github.com/automagik-dev/genie)
-An orchestration environment for building, coordinating, and operating specialized agents.
-
 ### [ravi](https://github.com/filipexyz/ravi)
-A personal agent harness in WhatsApp, keeping context, routing work, and coordinating specialized agents across my day.
+A personal agent harness in Slack and WhatsApp, keeping context, routing work, and coordinating specialized agents across my day.
 
 ## Focus
 
